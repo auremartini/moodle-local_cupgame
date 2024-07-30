@@ -1,1 +1,1 @@
-# moodle-local_cupgame
+# moodle-mod_cupgame
